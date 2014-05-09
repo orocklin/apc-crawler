@@ -1,0 +1,251 @@
+<HTML>
+
+<!-- Copyright AirNav, LLC.  ALL RIGHTS RESERVED.  -->
+<!-- DO NOT COPY THIS CODE WITHOUT PERMISSION.     -->
+<!-- DO NOT MAKE DERIVATIVE WORKS.                 -->
+<!-- If you are thinking of copying this code      -->
+<!-- email contact@airnav.com for authorization.   -->
+
+<HEAD>
+<TITLE>AirNav: Browse Airports</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<LINK rel=StyleSheet href="//img.airnav.com/css/css2.css?v=1391991885" type="text/css">
+<BASE target="_top">
+</HEAD>
+<BODY bgcolor="#ffffff">
+<TABLE cellpadding=0 border=0 width="100%">
+<TR valign=bottom>
+<TD align=left valign=top height=60>
+<A href="/"><IMG src="//img.airnav.com/logo/header.gif?v=HTWA8Q" width=280 height=60 alt="AirNav" border=0></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD width=468 height=60 align=right>
+<A href="/ad/click/taHR0cDovL3d3dy5haXJ2ZW50dXJlLm9yZy9wbGFubmluZy9hZHZhbmNlLmh0+ObWwgb3Noa29zaDIwMTQ." target=_new><IMG src="//img.airnav.com/banners/EAA2014.jpg?v=N4DS56" width=468 height=60 alt="AirVenture 2014" border=0></A>
+
+</TD>
+</TR>
+</TABLE>
+<TABLE width="100%" cellspacing=0 cellpadding=0 border=0>
+<TR><TD width=20>&nbsp;</TD><TD align=left>
+<TABLE cellspacing=0 cellpadding=0 border=0><TR><TD>
+<div id="mainmenu">
+
+<ul>
+    <li><A href="/airports/" id="airports">Airports</a>
+
+
+</li>
+    <li><A href="/navaids/" id="navaids">Navaids</a>
+
+
+</li>
+    <li><A href="/airspace/fix/" id="fix">Airspace Fixes</a>
+
+
+</li>
+    <li><A href="/fuel/" id="fuel">Aviation Fuel</a>
+
+
+</li>
+    <li><A href="/airboss/" id="airboss">AIRBOSS</a>
+
+
+</li>
+    <li><A href="/iphoneapp/" id="iphoneapp">iPhone App</a>
+
+
+</li>
+    <li><A href="https://www.airnav.com/members/login?return=//my.airnav.com/my" id="my">My AirNav</a>
+
+
+</li>
+<ul>
+
+</div>
+</TD></TR></TABLE>
+</TD></TR>
+<TR><TD width=20 bgcolor="#9999FF">&nbsp;</TD><TD width="100%" bgcolor="#9999FF" align=right><FONT size="-1">1190 users online
+ <a href="/members/login"><IMG src="//img.airnav.com/btn/mini/login.gif?v=JZBHPB" width=45 height=10 alt="" border=0></a></font>&nbsp;</TD></TR>
+</TABLE>
+
+
+
+
+<CENTER>
+<H1>Browse Airports</H1>
+<H2>United States of America</H2>
+<H3>New York</H3>
+<TABLE cellspacing=2 cellpadding=1 border=0>
+<TR><TH bgcolor="#9999ff">ID</TH><TH width=15>&nbsp;</TH><TH bgcolor="#9999ff">City</TH><TH width=15>&nbsp;</TH><TH bgcolor="#9999ff">Name</TH></TR>
+<TR><TD><A href="/airport/9G3">9G3</A></TD><TD></TD><TD>Akron</TD><TD></TD><TD>Akron Airport</TD></TR>
+<TR><TD><A href="/airport/KALB">KALB</A></TD><TD></TD><TD>Albany</TD><TD></TD><TD>Albany International Airport</TD></TR>
+<TR><TD><A href="/airport/9G6">9G6</A></TD><TD></TD><TD>Albion</TD><TD></TD><TD>Pine Hill Airport</TD></TR>
+<TR><TD><A href="/airport/D23">D23</A></TD><TD></TD><TD>Arcade</TD><TD></TD><TD>Arcade Tri-County Airport</TD></TR>
+<TR><TD><A href="/airport/1C3">1C3</A></TD><TD></TD><TD>Argyle</TD><TD></TD><TD>Argyle Airport</TD></TR>
+<TR><TD><A href="/airport/KGVQ">KGVQ</A></TD><TD></TD><TD>Batavia</TD><TD></TD><TD>Genesee County Airport</TD></TR>
+<TR><TD><A href="/airport/23N">23N</A></TD><TD></TD><TD>Bayport</TD><TD></TD><TD>Bayport Aerodrome</TD></TR>
+<TR><TD><A href="/airport/KBGM">KBGM</A></TD><TD></TD><TD>Binghamton</TD><TD></TD><TD>Greater Binghamton Airport/Edwin A Link Field</TD></TR>
+<TR><TD><A href="/airport/7G0">7G0</A></TD><TD></TD><TD>Brockport</TD><TD></TD><TD>Ledgedale Airpark</TD></TR>
+<TR><TD><A href="/airport/KBUF">KBUF</A></TD><TD></TD><TD>Buffalo</TD><TD></TD><TD>Buffalo Niagara International Airport</TD></TR>
+<TR><TD><A href="/airport/9G0">9G0</A></TD><TD></TD><TD>Buffalo</TD><TD></TD><TD>Buffalo Airfield</TD></TR>
+<TR><TD><A href="/airport/D51">D51</A></TD><TD></TD><TD>Buffalo</TD><TD></TD><TD>Clarence Aerodrome</TD></TR>
+<TR><TD><A href="/airport/1B8">1B8</A></TD><TD></TD><TD>Cambridge</TD><TD></TD><TD>Chapin Field Airport</TD></TR>
+<TR><TD><A href="/airport/NY2">NY2</A></TD><TD></TD><TD>Camillus</TD><TD></TD><TD>Camillus Airport</TD></TR>
+<TR><TD><A href="/airport/D38">D38</A></TD><TD></TD><TD>Canandaigua</TD><TD></TD><TD>Canandaigua Airport</TD></TR>
+<TR><TD><A href="/airport/1H1">1H1</A></TD><TD></TD><TD>Clay</TD><TD></TD><TD>Airlane Enterprises Airport</TD></TR>
+<TR><TD><A href="/airport/K23">K23</A></TD><TD></TD><TD>Cooperstown</TD><TD></TD><TD>Cooperstown-Westville Airport</TD></TR>
+<TR><TD><A href="/airport/7N1">7N1</A></TD><TD></TD><TD>Corning</TD><TD></TD><TD>Corning-Painted Post Airport</TD></TR>
+<TR><TD><A href="/airport/N03">N03</A></TD><TD></TD><TD>Cortland</TD><TD></TD><TD>Cortland County Airport-Chase Field</TD></TR>
+<TR><TD><A href="/airport/KDSV">KDSV</A></TD><TD></TD><TD>Dansville</TD><TD></TD><TD>Dansville Municipal Airport</TD></TR>
+<TR><TD><A href="/airport/1E8">1E8</A></TD><TD></TD><TD>Degrasse</TD><TD></TD><TD>Moores Airport</TD></TR>
+<TR><TD><A href="/airport/1F6">1F6</A></TD><TD></TD><TD>Dolgeville</TD><TD></TD><TD>Dolgeville Airport</TD></TR>
+<TR><TD><A href="/airport/4B1">4B1</A></TD><TD></TD><TD>Duanesburg</TD><TD></TD><TD>Duanesburg Airport</TD></TR>
+<TR><TD><A href="/airport/KDKK">KDKK</A></TD><TD></TD><TD>Dunkirk</TD><TD></TD><TD>Chautauqua County/Dunkirk Airport</TD></TR>
+<TR><TD><A href="/airport/KHTO">KHTO</A></TD><TD></TD><TD>East Hampton</TD><TD></TD><TD>East Hampton Airport</TD></TR>
+<TR><TD><A href="/airport/1N2">1N2</A></TD><TD></TD><TD>East Moriches</TD><TD></TD><TD>Spadaro Airport</TD></TR>
+<TR><TD><A href="/airport/49N">49N</A></TD><TD></TD><TD>East Moriches</TD><TD></TD><TD>Lufker Airport</TD></TR>
+<TR><TD><A href="/airport/1F2">1F2</A></TD><TD></TD><TD>Edinburg</TD><TD></TD><TD>Plateau Sky Ranch Airport</TD></TR>
+<TR><TD><A href="/airport/N89">N89</A></TD><TD></TD><TD>Ellenville</TD><TD></TD><TD>Joseph Y Resnick Airport</TD></TR>
+<TR><TD><A href="/airport/KELM">KELM</A></TD><TD></TD><TD>Elmira/Corning</TD><TD></TD><TD>Elmira/Corning Regional Airport</TD></TR>
+<TR><TD><A href="/airport/KCZG">KCZG</A></TD><TD></TD><TD>Endicott</TD><TD></TD><TD>Tri-Cities Airport</TD></TR>
+<TR><TD><A href="/airport/KFRG">KFRG</A></TD><TD></TD><TD>Farmingdale</TD><TD></TD><TD>Republic Airport</TD></TR>
+<TR><TD><A href="/airport/0B8">0B8</A></TD><TD></TD><TD>Fishers Island</TD><TD></TD><TD>Elizabeth Field Airport</TD></TR>
+<TR><TD><A href="/airport/83K">83K</A></TD><TD></TD><TD>Fort Ann</TD><TD></TD><TD>Harris Airport</TD></TR>
+<TR><TD><A href="/airport/1I5">1I5</A></TD><TD></TD><TD>Freehold</TD><TD></TD><TD>Freehold Airport</TD></TR>
+<TR><TD><A href="/airport/KFZY">KFZY</A></TD><TD></TD><TD>Fulton</TD><TD></TD><TD>Oswego County Airport</TD></TR>
+<TR><TD><A href="/airport/N25">N25</A></TD><TD></TD><TD>Gallupville</TD><TD></TD><TD>Blue Heron Airport</TD></TR>
+<TR><TD><A href="/airport/K30">K30</A></TD><TD></TD><TD>Gansevoort</TD><TD></TD><TD>Heber Airpark</TD></TR>
+<TR><TD><A href="/airport/9G5">9G5</A></TD><TD></TD><TD>Gasport</TD><TD></TD><TD>Royalton Airport</TD></TR>
+<TR><TD><A href="/airport/D52">D52</A></TD><TD></TD><TD>Geneseo</TD><TD></TD><TD>Geneseo Airport</TD></TR>
+<TR><TD><A href="/airport/NY1">NY1</A></TD><TD></TD><TD>Ghent</TD><TD></TD><TD>Kline Kill Airport</TD></TR>
+<TR><TD><A href="/airport/KGFL">KGFL</A></TD><TD></TD><TD>Glens Falls</TD><TD></TD><TD>Floyd Bennett Memorial Airport</TD></TR>
+<TR><TD><A href="/airport/92G">92G</A></TD><TD></TD><TD>Gorham</TD><TD></TD><TD>Midlakes Airport</TD></TR>
+<TR><TD><A href="/airport/D59">D59</A></TD><TD></TD><TD>Gowanda</TD><TD></TD><TD>Gowanda Airport</TD></TR>
+<TR><TD><A href="/airport/N56">N56</A></TD><TD></TD><TD>Great Valley</TD><TD></TD><TD>Great Valley Airport</TD></TR>
+<TR><TD><A href="/airport/4N7">4N7</A></TD><TD></TD><TD>Greene</TD><TD></TD><TD>Greene Airport</TD></TR>
+<TR><TD><A href="/airport/1H4">1H4</A></TD><TD></TD><TD>Greenville</TD><TD></TD><TD>Greenville-Rainbow Airport</TD></TR>
+<TR><TD><A href="/airport/4G2">4G2</A></TD><TD></TD><TD>Hamburg</TD><TD></TD><TD>Hamburg Inc Airport</TD></TR>
+<TR><TD><A href="/airport/KVGC">KVGC</A></TD><TD></TD><TD>Hamilton</TD><TD></TD><TD>Hamilton Municipal Airport</TD></TR>
+<TR><TD><A href="/airport/D67">D67</A></TD><TD></TD><TD>Holcomb</TD><TD></TD><TD>Creekside Airport</TD></TR>
+<TR><TD><A href="/airport/KHTF">KHTF</A></TD><TD></TD><TD>Hornell</TD><TD></TD><TD>Hornell Municipal Airport</TD></TR>
+<TR><TD><A href="/airport/1B1">1B1</A></TD><TD></TD><TD>Hudson</TD><TD></TD><TD>Columbia County Airport</TD></TR>
+<TR><TD><A href="/airport/KITH">KITH</A></TD><TD></TD><TD>Ithaca</TD><TD></TD><TD>Ithaca Tompkins Regional Airport</TD></TR>
+<TR><TD><A href="/airport/KJHW">KJHW</A></TD><TD></TD><TD>Jamestown</TD><TD></TD><TD>Chautauqua County/Jamestown Airport</TD></TR>
+<TR><TD><A href="/airport/NY0">NY0</A></TD><TD></TD><TD>Johnstown</TD><TD></TD><TD>Fulton County Airport</TD></TR>
+<TR><TD><A href="/airport/1I1">1I1</A></TD><TD></TD><TD>Keene</TD><TD></TD><TD>Marcy Field Airport</TD></TR>
+<TR><TD><A href="/airport/20N">20N</A></TD><TD></TD><TD>Kingston</TD><TD></TD><TD>Kingston-Ulster Airport</TD></TR>
+<TR><TD><A href="/airport/KLKP">KLKP</A></TD><TD></TD><TD>Lake Placid</TD><TD></TD><TD>Lake Placid Airport</TD></TR>
+<TR><TD><A href="/airport/KBQR">KBQR</A></TD><TD></TD><TD>Lancaster</TD><TD></TD><TD>Buffalo-Lancaster Regional Airport</TD></TR>
+<TR><TD><A href="/airport/5G0">5G0</A></TD><TD></TD><TD>Le Roy</TD><TD></TD><TD>Le Roy Airport</TD></TR>
+<TR><TD><A href="/airport/1A1">1A1</A></TD><TD></TD><TD>Livingston</TD><TD></TD><TD>Green Acres Airport</TD></TR>
+<TR><TD><A href="/airport/0G0">0G0</A></TD><TD></TD><TD>Lockport</TD><TD></TD><TD>North Buffalo Suburban Airport</TD></TR>
+<TR><TD><A href="/airport/KMAL">KMAL</A></TD><TD></TD><TD>Malone</TD><TD></TD><TD>Malone-Dufort Airport</TD></TR>
+<TR><TD><A href="/airport/KMSS">KMSS</A></TD><TD></TD><TD>Massena</TD><TD></TD><TD>Massena International Airport-Richards Field</TD></TR>
+<TR><TD><A href="/airport/21N">21N</A></TD><TD></TD><TD>Mattituck</TD><TD></TD><TD>Mattituck Airport</TD></TR>
+<TR><TD><A href="/airport/D79">D79</A></TD><TD></TD><TD>Mayville</TD><TD></TD><TD>Dart Airport</TD></TR>
+<TR><TD><A href="/airport/K27">K27</A></TD><TD></TD><TD>Mechanicville</TD><TD></TD><TD>Burrello-Mechanicville Airport</TD></TR>
+<TR><TD><A href="/airport/4N2">4N2</A></TD><TD></TD><TD>Middlesex</TD><TD></TD><TD>Middlesex Valley Airport</TD></TR>
+<TR><TD><A href="/airport/06N">06N</A></TD><TD></TD><TD>Middletown</TD><TD></TD><TD>Randall Airport</TD></TR>
+<TR><TD><A href="/airport/44N">44N</A></TD><TD></TD><TD>Millbrook</TD><TD></TD><TD>Sky Acres Airport</TD></TR>
+<TR><TD><A href="/airport/KMTP">KMTP</A></TD><TD></TD><TD>Montauk</TD><TD></TD><TD>Montauk Airport</TD></TR>
+<TR><TD><A href="/airport/KMGJ">KMGJ</A></TD><TD></TD><TD>Montgomery</TD><TD></TD><TD>Orange County Airport</TD></TR>
+<TR><TD><A href="/airport/KMSV">KMSV</A></TD><TD></TD><TD>Monticello</TD><TD></TD><TD>Sullivan County International Airport</TD></TR>
+<TR><TD><A href="/airport/Y92">Y92</A></TD><TD></TD><TD>Moravia</TD><TD></TD><TD>Owasco Airport</TD></TR>
+<TR><TD><A href="/airport/KISP">KISP</A></TD><TD></TD><TD>New York</TD><TD></TD><TD>Long Island Mac Arthur Airport</TD></TR>
+<TR><TD><A href="/airport/KJFK">KJFK</A></TD><TD></TD><TD>New York</TD><TD></TD><TD>John F Kennedy International Airport</TD></TR>
+<TR><TD><A href="/airport/KLGA">KLGA</A></TD><TD></TD><TD>New York</TD><TD></TD><TD>La Guardia Airport</TD></TR>
+<TR><TD><A href="/airport/KSWF">KSWF</A></TD><TD></TD><TD>Newburgh</TD><TD></TD><TD>Stewart International Airport</TD></TR>
+<TR><TD><A href="/airport/85N">85N</A></TD><TD></TD><TD>Newfane</TD><TD></TD><TD>Hollands International Field Airport</TD></TR>
+<TR><TD><A href="/airport/KIAG">KIAG</A></TD><TD></TD><TD>Niagara Falls</TD><TD></TD><TD>Niagara Falls International Airport</TD></TR>
+<TR><TD><A href="/airport/KOIC">KOIC</A></TD><TD></TD><TD>Norwich</TD><TD></TD><TD>LT Warren Eaton Airport</TD></TR>
+<TR><TD><A href="/airport/KOGS">KOGS</A></TD><TD></TD><TD>Ogdensburg</TD><TD></TD><TD>Ogdensburg International Airport</TD></TR>
+<TR><TD><A href="/airport/KOLE">KOLE</A></TD><TD></TD><TD>Olean</TD><TD></TD><TD>Cattaraugus County-Olean Airport</TD></TR>
+<TR><TD><A href="/airport/8G3">8G3</A></TD><TD></TD><TD>Olean</TD><TD></TD><TD>Giermek Executive Airport</TD></TR>
+<TR><TD><A href="/airport/N66">N66</A></TD><TD></TD><TD>Oneonta</TD><TD></TD><TD>Oneonta Municipal Airport</TD></TR>
+<TR><TD><A href="/airport/D82">D82</A></TD><TD></TD><TD>Ovid</TD><TD></TD><TD>Ovid Airport</TD></TR>
+<TR><TD><A href="/airport/KPEO">KPEO</A></TD><TD></TD><TD>Penn Yan</TD><TD></TD><TD>Penn Yan Airport</TD></TR>
+<TR><TD><A href="/airport/01G">01G</A></TD><TD></TD><TD>Perry</TD><TD></TD><TD>Perry-Warsaw Airport</TD></TR>
+<TR><TD><A href="/airport/K09">K09</A></TD><TD></TD><TD>Piseco</TD><TD></TD><TD>Piseco Airport</TD></TR>
+<TR><TD><A href="/airport/KPBG">KPBG</A></TD><TD></TD><TD>Plattsburgh</TD><TD></TD><TD>Plattsburgh International Airport</TD></TR>
+<TR><TD><A href="/airport/KPTD">KPTD</A></TD><TD></TD><TD>Potsdam</TD><TD></TD><TD>Potsdam Municipal Airport (Damon Field)</TD></TR>
+<TR><TD><A href="/airport/KPOU">KPOU</A></TD><TD></TD><TD>Poughkeepsie</TD><TD></TD><TD>Dutchess County Airport</TD></TR>
+<TR><TD><A href="/airport/46N">46N</A></TD><TD></TD><TD>Red Hook</TD><TD></TD><TD>Sky Park Airport</TD></TR>
+<TR><TD><A href="/airport/KROC">KROC</A></TD><TD></TD><TD>Rochester</TD><TD></TD><TD>Greater Rochester International Airport</TD></TR>
+<TR><TD><A href="/airport/KRME">KRME</A></TD><TD></TD><TD>Rome</TD><TD></TD><TD>Griffiss International Airport</TD></TR>
+<TR><TD><A href="/airport/K16">K16</A></TD><TD></TD><TD>Rome</TD><TD></TD><TD>Becks Grove Airport</TD></TR>
+<TR><TD><A href="/airport/W57">W57</A></TD><TD></TD><TD>Round Lake</TD><TD></TD><TD>Round Lake Airport and Seaplane Base</TD></TR>
+<TR><TD><A href="/airport/KSLK">KSLK</A></TD><TD></TD><TD>Saranac Lake</TD><TD></TD><TD>Adirondack Regional Airport</TD></TR>
+<TR><TD><A href="/airport/5B2">5B2</A></TD><TD></TD><TD>Saratoga Springs</TD><TD></TD><TD>Saratoga County Airport</TD></TR>
+<TR><TD><A href="/airport/KSCH">KSCH</A></TD><TD></TD><TD>Schenectady</TD><TD></TD><TD>Schenectady County Airport</TD></TR>
+<TR><TD><A href="/airport/4B7">4B7</A></TD><TD></TD><TD>Schroon Lake</TD><TD></TD><TD>Schroon Lake Airport</TD></TR>
+<TR><TD><A href="/airport/B04">B04</A></TD><TD></TD><TD>Schuylerville</TD><TD></TD><TD>Garnseys Airport</TD></TR>
+<TR><TD><A href="/airport/0G7">0G7</A></TD><TD></TD><TD>Seneca Falls</TD><TD></TD><TD>Finger Lakes Regional Airport</TD></TR>
+<TR><TD><A href="/airport/K31">K31</A></TD><TD></TD><TD>Sharon Springs</TD><TD></TD><TD>Sharon Airport</TD></TR>
+<TR><TD><A href="/airport/D88">D88</A></TD><TD></TD><TD>Sherman</TD><TD></TD><TD>Pratt's Eastern Divide Airport</TD></TR>
+<TR><TD><A href="/airport/KHWV">KHWV</A></TD><TD></TD><TD>Shirley</TD><TD></TD><TD>Brookhaven Airport</TD></TR>
+<TR><TD><A href="/airport/N23">N23</A></TD><TD></TD><TD>Sidney</TD><TD></TD><TD>Sidney Municipal Airport</TD></TR>
+<TR><TD><A href="/airport/6B9">6B9</A></TD><TD></TD><TD>Skaneateles</TD><TD></TD><TD>Skaneateles Aero Drome</TD></TR>
+<TR><TD><A href="/airport/4B0">4B0</A></TD><TD></TD><TD>South Bethlehem</TD><TD></TD><TD>South Albany Airport</TD></TR>
+<TR><TD><A href="/airport/D91">D91</A></TD><TD></TD><TD>Spencerport</TD><TD></TD><TD>Spencerport Airpark</TD></TR>
+<TR><TD><A href="/airport/09N">09N</A></TD><TD></TD><TD>Staatsburg</TD><TD></TD><TD>Airhaven Airport</TD></TR>
+<TR><TD><A href="/airport/N69">N69</A></TD><TD></TD><TD>Stormville</TD><TD></TD><TD>Stormville Airport</TD></TR>
+<TR><TD><A href="/airport/KSYR">KSYR</A></TD><TD></TD><TD>Syracuse</TD><TD></TD><TD>Syracuse Hancock International Airport</TD></TR>
+<TR><TD><A href="/airport/6NK">6NK</A></TD><TD></TD><TD>Syracuse</TD><TD></TD><TD>Syracuse Suburban Airport</TD></TR>
+<TR><TD><A href="/airport/4B6">4B6</A></TD><TD></TD><TD>Ticonderoga</TD><TD></TD><TD>Ticonderoga Municipal Airport</TD></TR>
+<TR><TD><A href="/airport/5B7">5B7</A></TD><TD></TD><TD>Troy</TD><TD></TD><TD>Rensselaer County Airport</TD></TR>
+<TR><TD><A href="/airport/6B4">6B4</A></TD><TD></TD><TD>Utica/Frankfort</TD><TD></TD><TD>Frankfort-Highland Airport</TD></TR>
+<TR><TD><A href="/airport/N45">N45</A></TD><TD></TD><TD>Wallkill</TD><TD></TD><TD>Kobelt Airport</TD></TR>
+<TR><TD><A href="/airport/N72">N72</A></TD><TD></TD><TD>Warwick</TD><TD></TD><TD>Warwick Municipal Airport</TD></TR>
+<TR><TD><A href="/airport/D93">D93</A></TD><TD></TD><TD>Waterloo</TD><TD></TD><TD>Airtrek Airport</TD></TR>
+<TR><TD><A href="/airport/KART">KART</A></TD><TD></TD><TD>Watertown</TD><TD></TD><TD>Watertown International Airport</TD></TR>
+<TR><TD><A href="/airport/B16">B16</A></TD><TD></TD><TD>Weedsport</TD><TD></TD><TD>Whitfords Airport</TD></TR>
+<TR><TD><A href="/airport/KELZ">KELZ</A></TD><TD></TD><TD>Wellsville</TD><TD></TD><TD>Wellsville Municipal Airport, Tarantine Field</TD></TR>
+<TR><TD><A href="/airport/KFOK">KFOK</A></TD><TD></TD><TD>Westhampton Beach</TD><TD></TD><TD>Francis S Gabreski Airport</TD></TR>
+<TR><TD><A href="/airport/KHPN">KHPN</A></TD><TD></TD><TD>White Plains</TD><TD></TD><TD>Westchester County Airport</TD></TR>
+<TR><TD><A href="/airport/KSDC">KSDC</A></TD><TD></TD><TD>Williamson/Sodus</TD><TD></TD><TD>Williamson-Sodus Airport</TD></TR>
+<TR><TD><A href="/airport/N82">N82</A></TD><TD></TD><TD>Wurtsboro</TD><TD></TD><TD>Wurtsboro-Sullivan County Airport</TD></TR>
+</TABLE>
+
+<TABLE border=0><TR><TD>
+<HR>
+<FONT size="-1">The above list contains only public use airports and may be incomplete.<BR>
+Switch to 
+<A href="?use=M">Military Use</A>
+<A href="?use=R">Private Use</A>
+&nbsp;|&nbsp;
+<A href="?type=B">Balloonports</A>
+<A href="?type=G">Gliderports</A>
+<A href="?type=H">Heliports</A>
+<A href="?type=C">Seaplane bases</A>
+<A href="?type=U">Ultralight flightparks</A>
+</FONT>
+</TD></TR></TABLE>
+</CENTER>
+<BR>&nbsp;<BR>
+<TABLE width="100%" cellspacing=5 cellpadding=0 border=0 bgcolor="#CCCCFF">
+<TR><TD colspan=2 bgcolor="#333399"><IMG src="//img.airnav.com/1dot.gif?v=HTWTIM" width=1 height=1 alt="" border=0></TD></TR>
+<TR valign=bottom>
+<TD><FONT size="-2" color="#404040">
+Copyright &copy; AirNav, LLC. All rights reserved.
+</FONT>
+</TD>
+<TD align=right><FONT size="-2"><A href="/info/privacy.html">Privacy Policy</A>&nbsp;
+<A href="/info/contact.html">Contact</A></FONT></TD>
+</TR>
+</TABLE>
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-467723-1']); 
+ _gaq.push(['_trackPageview']);
+ _gaq.push(['_trackEvent', 'Banner', 'oshkosh2014', 'Impression']);
+ (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>  
+</BODY>
+<!-- Copyright AirNav, LLC.  ALL RIGHTS RESERVED. -->
+</HTML>
+
